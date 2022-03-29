@@ -1,5 +1,5 @@
 ---
-name: 'Story :speech_balloon:'
+name: Story
 about: Issues covering user stories.
 title: ''
 labels: Story

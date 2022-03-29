@@ -1,5 +1,5 @@
 ---
-name: 'Technical :wrench:'
+name: Technical
 about: Issues describing a technical requirement.
 title: ''
 labels: Technical

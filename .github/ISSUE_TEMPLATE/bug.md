@@ -1,5 +1,5 @@
 ---
-name: 'Bug :x:'
+name: Bug
 about: Issues describing a bug.
 title: ''
 labels: Bug
