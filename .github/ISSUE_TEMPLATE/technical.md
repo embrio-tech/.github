@@ -1,8 +1,8 @@
 ---
-name: technical
+name: 'Technical :wrench:'
 about: Issues describing a technical requirement.
 title: ''
-labels: technical
+labels: Technical
 assignees: ''
 
 ---

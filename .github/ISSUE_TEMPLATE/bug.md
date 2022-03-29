@@ -1,8 +1,8 @@
 ---
-name: bug
+name: 'Bug :x:'
 about: Issues describing a bug.
 title: ''
-labels: bug
+labels: Bug
 assignees: ''
 
 ---

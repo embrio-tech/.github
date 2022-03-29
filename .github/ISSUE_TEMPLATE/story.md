@@ -1,8 +1,8 @@
 ---
-name: story
+name: 'Story :speech_balloon:'
 about: Issues covering user stories.
 title: ''
-labels: story
+labels: Story
 assignees: ''
 
 ---
