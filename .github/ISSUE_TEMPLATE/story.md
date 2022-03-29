@@ -9,7 +9,9 @@ assignees: ''
 
 ### User story
 
-> **As** (who?) **I want** (what?) **So that** (why?)
+> **As** (who?)    
+**I want** (what?)    
+**So that** (why?)
 
 ### Acceptance criteria
 
