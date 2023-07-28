@@ -14,3 +14,11 @@ We create compelling digital solutions. Get expertise, qualified manpower, or yo
 ```
 
 [Learn more!](https://embrio.tech/en)
+
+##
+
+![Static Badge](https://img.shields.io/badge/Full--Stack_Development-252525)
+![Static Badge](https://img.shields.io/badge/DevOps_Engineering-252525)
+![Static Badge](https://img.shields.io/badge/Cloud_Architecture-252525)
+![Static Badge](https://img.shields.io/badge/Data_Processing-252525)
+![Static Badge](https://img.shields.io/badge/Agile_Mindset-252525)
