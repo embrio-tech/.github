@@ -7,4 +7,4 @@ Shared configurations for [EMBRIO.tech](https://embrio.tech/en)'s github project
 ## Contact
 
 [hello@embrio.tech](mailto:hello@embrio.tech)  
-+41 44 552 00 75
++41 44 797 59 16
